@@ -6,7 +6,7 @@ Having built a __Jekyll__ blog from scratch in order to familiarise myself with 
 
 If its not broke, I won't fix it, but I will try to make it better....
 
-here is a quick intro to what attracked me to this theme and its creator:
+here is a quick intro to what attracted me to this theme and its creator:
 
 
 
